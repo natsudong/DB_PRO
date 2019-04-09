@@ -61,3 +61,23 @@ If a new warehouse is added to the company's commercial expansion plan,
 * then when the manager wants to transport goods from one warehouse to the span-new site, he just needs to change the `warehouse_warehouse_id` in the `goods_in_warehouse` table to denote the transportation of the goods.  
 * additionally, once a store is attached to that warehouse, a new entity should be added in the `store` table, indicating its `warehouse_warehouse_id` as well as recording  its location in the city in the `address`.  
 
+## Time table
+
+>week 9  
+
+* realize functions for manager
+* start design the graphic interface
+
+>week 10  
+
+* realize functions for customer and deliverer
+* check the progress of GUI
+* test the concurrent connect of multiple type of users
+
+>week 11  
+
+* put GUI and program together
+
+>week 12  
+
+* debugging and improving
