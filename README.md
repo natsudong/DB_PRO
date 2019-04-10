@@ -83,5 +83,5 @@ If a new warehouse is added to the company's commercial expansion plan,
 >week 12  
 
 * Debugging and improving
-* Complete and test the operation and maintenance of DB
+* Complete and test the operation and maintenance of DBS
 
