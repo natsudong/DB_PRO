@@ -65,19 +65,23 @@ If a new warehouse is added to the company's commercial expansion plan,
 
 >week 9  
 
-* realize functions for manager
-* start design the graphic interface
+* Improve and complete the logical physical structure design of DB
+* Realize functions for manager
+* Start design the graphic interface
 
 >week 10  
 
-* realize functions for customer and deliverer
-* check the progress of GUI
-* test the concurrent connect of multiple type of users
+* Realize functions for customer and deliverer
+* Check the progress of GUI
+* Test the concurrent connect of multiple type of users
 
 >week 11  
 
-* put GUI and program together
+* Connect GUI and program together
+* Implement some optional functions based on process
 
 >week 12  
 
-* debugging and improving
+* Debugging and improving
+* Complete and test the operation and maintenance of DB
+
