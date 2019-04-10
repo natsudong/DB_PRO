@@ -1,6 +1,6 @@
 # DB_PRO  
 
-group member: (blank for group leader),　11710924 Void,　ShiqingLiu,　11712641
+group member: 11710924 Void,　ShiqingLiu,　11712641, 11712003 Zhanqian Dong
 <br/>
 
 ## Project Introduction  
